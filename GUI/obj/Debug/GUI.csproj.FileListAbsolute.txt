@@ -1,0 +1,226 @@
+E:\GUI\GUI\bin\Debug\GUI.exe.config
+E:\GUI\GUI\bin\Debug\GUI.exe
+E:\GUI\GUI\bin\Debug\GUI.pdb
+E:\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\GUI\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\GUI\GUI\obj\Debug\GUI.exe
+E:\GUI\GUI\obj\Debug\GUI.pdb
+E:\GUI\GUI\bin\Debug\Guna.UI2.dll
+E:\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+E:\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+E:\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+E:\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+E:\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmBills.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+E:\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmBills.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBanHangVatTu\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmBills.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BLL.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BLL.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmBills.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmImportBill.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmExportBills.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmExportBills.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmImportBill.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLoaiVatTu.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLoaiVatTu.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe.config
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.exe
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\GUI.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DTO.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmExportBills.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmCustomers.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmHome.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmImportBill.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmInformation.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLoaiVatTu.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmProducts.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmRevenue.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.frmStaffs.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.exe
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\obj\Debug\GUI.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\MySql.Data.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Memory.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Buffers.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BUS.dll.config
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\DAL.dll.config
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\MySql.Data.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Memory.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Buffers.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml

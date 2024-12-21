@@ -1,0 +1,72 @@
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll.config
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\MySql.Data.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\Google.Protobuf.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\ZstdSharp.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Memory.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Buffers.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll.config
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\MySql.Data.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\Google.Protobuf.pdb
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\Google.Protobuf.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Memory.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Buffers.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\84845\Desktop\New folder\SalesManagement\QLyBanVatTu\BUS\bin\Debug\System.Numerics.Vectors.xml
